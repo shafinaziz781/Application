@@ -7,7 +7,7 @@ This is a basic sample project designed to demonstrate core Object-Oriented Prog
 It serves as a practical implementation to showcase how these fundamental principles are applied in building a structured desktop application. <br>
 
 🚀 **Features**
-•	🔐 User Login System (Default credentials included). <br>
+•	🔐 User Login System . <br>
 •	🏪 Multiple Restaurants Selection. <br> 
 •	📋 Dynamic Menu System. <br> 
 •	➕ Add / ➖ Remove Items from Cart. <br> 
