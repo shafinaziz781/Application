@@ -29,7 +29,8 @@ Application.java
 ├── OrderScreen (Menu & Cart system)
 
 ├── ReceiptScreen (Final bill display)
-│
+
+
 ├── Restaurant (Abstract Base Class)
 
 │   ├── McDonalds
@@ -37,7 +38,7 @@ Application.java
 │   ├── Howdy
 
 │   └── Ranchers
-│
+
 └── UIHelper (UI Styling Utilities) <br>
 🧠 **Concepts Used.** <br>
 **🔹 Object-Oriented Programming** (OOP)<br>
@@ -48,32 +49,57 @@ Application.java
 •	Polymorphism (method overriding).
 
 •	Encapsulation (data handling in classes). <br>
-**🔹 Java Swing** (GUI)<br>
-•	JFrame, JPanel, JLabel, JButton. <br>
-•	Layout Managers (BorderLayout, BoxLayout, FlowLayout). <br>
-•	Event Handling (ActionListener, MouseListener).<br> 
+
+**🔹 Java Swing** (GUI)
+
+•	JFrame, JPanel, JLabel, JButton. 
+
+•	Layout Managers (BorderLayout, BoxLayout, FlowLayout). 
+
+•	Event Handling (ActionListener, MouseListener).
+
 **🔹 Data Structures**<br>
+
 •	Map (LinkedHashMap for menu & cart). <br>
+
 •	Dynamic item tracking using key-value pairs. <br>
+
 **🔹 Custom UI Design**<br>
+
 •	Rounded panels. <br>
+
 •	Custom painted buttons. <br>
+
 •	Dark theme styling. <br>
+
 •	Emoji-based UI elements. <br>
 
+
 **🎨 UI Highlights**<br>
+
 •	Fully custom dark theme.<br> 
+
 •	Smooth rounded components. <br>
+
 •	Emoji-based visual design. 🍔🍟🍕 <br>
+
 •	Interactive cart system. <br>
-•	Clean and modern layout. <br.
+
+•	Clean and modern layout. <br>
+
 **🔑 Default Login Credentials** <br>
+
      Username: project.<br>
+     
      Password: password.<br>
 
 **📸 Screens Included**<br>
+
 •	Login Screen. <br>
+
 •	Restaurant Selection. <br>
+
 •	Order Screen (Menu + Cart). <br>
+
 •	Receipt Screen.<br>
 
