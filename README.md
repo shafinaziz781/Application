@@ -100,11 +100,23 @@ Application.java
 
 •	Login Screen. <br>
 
+
+<img width="479" height="584" alt="image" src="https://github.com/user-attachments/assets/b09490fe-d2ba-4a45-9cd6-24343c398e9c" />
+
+
 •	Restaurant Selection. <br>
+
+<img width="681" height="528" alt="image" src="https://github.com/user-attachments/assets/f2e700dd-8aeb-4153-a1ab-2bd9f97979ad" />
+
 
 •	Order Screen (Menu + Cart). <br>
 
+<img width="999" height="733" alt="image" src="https://github.com/user-attachments/assets/79804512-93d3-422b-bb26-e7a150cde018" />
+
+
 •	Receipt Screen.<br>
 
-<img width="479" height="584" alt="image" src="https://github.com/user-attachments/assets/b09490fe-d2ba-4a45-9cd6-24343c398e9c" />
+<img width="501" height="681" alt="image" src="https://github.com/user-attachments/assets/89f7dfed-6935-479f-8489-a5731fa0348b" />
+
+
 
