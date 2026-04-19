@@ -40,8 +40,11 @@ Application.java
 │   └── Ranchers
 
 └── UIHelper (UI Styling Utilities) <br>
+
 🧠 **Concepts Used.** <br>
+
 **🔹 Object-Oriented Programming** (OOP)<br>
+
 •	Abstraction (abstract class Restaurant).
 
 •	Inheritance (McDonalds, Howdy, Ranchers).
@@ -89,9 +92,9 @@ Application.java
 
 **🔑 Default Login Credentials** <br>
 
-     Username: project.<br>
+     Username: project.
      
-     Password: password.<br>
+     Password: password.
 
 **📸 Screens Included**<br>
 
@@ -102,4 +105,6 @@ Application.java
 •	Order Screen (Menu + Cart). <br>
 
 •	Receipt Screen.<br>
+
+<img width="479" height="584" alt="image" src="https://github.com/user-attachments/assets/b09490fe-d2ba-4a45-9cd6-24343c398e9c" />
 
